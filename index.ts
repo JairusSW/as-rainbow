@@ -1,0 +1,1 @@
+export { rainbow } from "./assembly"
